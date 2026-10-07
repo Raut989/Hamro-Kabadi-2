@@ -1,0 +1,6 @@
+{
+  "name": "Hamro Kabadi",
+  "description": "Mobile marketplace for buying and selling recyclable scrap and second-hand materials with real-time pricing and nearby GPS tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
